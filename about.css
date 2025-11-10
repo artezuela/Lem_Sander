@@ -203,7 +203,7 @@ body{
 
 @media screen and (max-width: 710px){
     
-          .nav-links {
+        .nav-links {
         display: none;
         flex-direction: column;
         background: hsl(268, 77%, 36%);
@@ -254,10 +254,10 @@ body{
 }
 
 @media screen and (max-width: 600px){
-          .nav-links {
+        .nav-links {
         display: none;
         flex-direction: column;
-        background:  hsl(268, 77%, 36%);
+        background: hsl(268, 77%, 36%);
         position: absolute;
         top: 60px;
         right: 20px;
@@ -269,6 +269,7 @@ body{
         display: flex;
         font-size: 15px;
       }
+
     .navbar{
         ul{
             display: none;
@@ -304,8 +305,7 @@ body{
 }
 
 @media screen and (max-width: 500px){
-    
-          .nav-links {
+        .nav-links {
         display: none;
         flex-direction: column;
         background: hsl(268, 77%, 36%);
@@ -320,6 +320,7 @@ body{
         display: flex;
         font-size: 15px;
       }
+
     .navbar{
         ul{
             display: none;
@@ -329,7 +330,7 @@ body{
             display: block;
             float: right;
             font-size: 30px;
-            color: white;
+            color: rgb(255, 255, 255);
         }
 
     }
@@ -355,9 +356,7 @@ body{
 }
 
 @media screen and (max-width: 410px){
-    
-        
-          .nav-links {
+        .nav-links {
         display: none;
         flex-direction: column;
         background: hsl(268, 77%, 36%);
@@ -372,6 +371,7 @@ body{
         display: flex;
         font-size: 15px;
       }
+
     .navbar{
         ul{
             display: none;
